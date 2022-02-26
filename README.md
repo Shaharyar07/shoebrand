@@ -2,7 +2,7 @@
 
 Landing page:
 
-![image](https://user-images.githubusercontent.com/70062821/155843559-ea5e9411-cc1a-474a-8eab-14d71a099baa.png)
+![image](https://user-images.githubusercontent.com/70062821/155843668-2efcc100-8393-4279-a553-c1a7cdfd2f73.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
